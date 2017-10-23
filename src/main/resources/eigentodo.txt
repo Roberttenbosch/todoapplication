@@ -1,0 +1,28 @@
+
+
+
+misschien superclass Todo
+
+
+post
+voor nieuwe serie -> aantal seizoenen -> aantal seizoenen per serie
+voor nieuwe season -> alleen als serie bestaat -> aantal afleveringen per seizoen (bestaat nog niet)
+voor nieuwe episode -> alleen als seizoen bestaat -> nummer, title, gezien, rating(1:10)  (bestaat nog niet)
+
+voor update serie -> alleen naam -> nieuwe seizoen of update seizoen
+voor update seizoen -> update jaar, seizoennummer -> nieuwe aflevering of update aflevering
+voor update aflevering -> nummer, title, gezien, rating(1:10) 
+
+views
+voor serie
+voor season
+voor episode
+
+
+refactoren
+footer header lossen maken
+samevoegen relateerde html
+paginering
+sort
+fout meldingen
+all the null checks
